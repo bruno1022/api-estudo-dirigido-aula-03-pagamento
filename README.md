@@ -1,1 +1,3 @@
-# api-estudo-dirigido-aula-03-pagamento
+# API Pagamento
+
+API responsável pela gestão de pagamentos da Livraria Virtual
